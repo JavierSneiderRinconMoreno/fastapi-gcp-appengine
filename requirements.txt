@@ -2,3 +2,4 @@ fastapi[standard]
 gunicorn
 psycopg2-binary
 python-dotenv
+uvicorn
